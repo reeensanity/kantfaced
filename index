@@ -1,0 +1,46 @@
+<html>
+<head>
+	<title>Kantfaced</title>
+  <link rel="stylesheet" type="text/css" href="WIP.css">
+</head>
+<body>
+  <div class="page-wrapper">
+
+    <div class="topbar">
+      <ul>
+        <li><a href="">Home</a></li>
+        <li><a href="">About</a></li>
+        <li><a href="">Contact</a></li>
+      </ul>
+    </div>
+    
+    <div class="title">
+    <h1>Kantfaced</h1>
+    </div>
+
+    <div class="categories">
+    <!-- Entry categories beneath the title -->
+    </div>
+
+    <div class="main">
+    <!-- formatting the boxes of the entries, 3 per row -->
+      
+      <div class="entries">
+        <div class="entry title">
+        <!-- formatting of all entry titles -->
+        </div>
+
+        <div class="entry visuals">
+        <!-- formatting of all entry visuals -->
+        </div>
+
+        <div class="entry summary">
+        <!-- formatting of all entry summaries -->
+        </div>
+       
+      </div> <!-- end main -->
+
+  </div> <!-- end page wrapper -->
+   
+</body>
+</html>
