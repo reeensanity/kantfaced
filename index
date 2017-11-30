@@ -2,43 +2,53 @@
 <head>
 	<title>Kantfaced</title>
   <link rel="stylesheet" type="text/css" href="style.css">
+ <link href="https://fonts.googleapis.com/css?family=Lora|Spectral+SC" rel="stylesheet">
 </head>
 <body>
-  <div class="page-wrapper">
-
-    <div class="topbar">
+  <div class="page-wrap">
+    <h1>Kantfaced</h1>
+  
+    <div class="menu">
       <ul>
         <li><a href="">Home</a></li>
         <li><a href="">About</a></li>
         <li><a href="">Contact</a></li>
       </ul>
     </div>
-    
-    <div class="title">
-    <h1>Kantfaced</h1>
-    </div>
-
-    <div class="categories">
-    <!-- Entry categories beneath the title -->
-    </div>
 
     <div class="main">
-    <!-- formatting the boxes of the entries, 3 per row -->
-      
-      <div class="entries">
-        <div class="entry title">
-        <!-- formatting of all entry titles -->
-        </div>
+    <!-- formatting the boxes of the entries, 3 per row; 1 per row for mobile. Generate with http://www.elsewhere.org/journal/pomo/ --> 
+      <div class="visuals"></div>
+      <h3>Dialectic nihilism in the works of Gibson</h3>
+      <p>“Sexual identity is fundamentally unattainable,” says Lyotard. In a sense, Sontag uses the term ‘socialist realism’ to denote not construction, as dialectic nihilism suggests, but neoconstruction.
+      </p>
 
-        <div class="entry visuals">
-        <!-- formatting of all entry visuals -->
-        </div>
+      <div class="visuals"></div>
+      <h3>Expressions of futility</h3>
+      <p>The main theme of the works of Pynchon is a modernist paradox. But the subject is interpolated into a subcultural paradigm of narrative that includes culture as a totality.
+      </p>
 
-        <div class="entry summary">
-        <!-- formatting of all entry summaries -->
-        </div>
-       
-      </div> <!-- end main -->
+      <div class="visuals"></div>
+      <h3>Joyce and the postcultural paradigm of expression</h3>
+      <p>In the works of Joyce, a predominant concept is the concept of neostructural truth. Thus, in A Portrait of the Artist As a Young Man, Joyce examines subdeconstructivist discourse; in Finnegan’s Wake he analyses textual precultural theory. Sontag suggests the use of capitalist desublimation to deconstruct and analyse society.
+      </p>
+
+      <div class="visuals"></div>
+      <h3>Dialectic nihilism in the works of Gibson</h3>
+      <p>“Sexual identity is fundamentally unattainable,” says Lyotard. In a sense, Sontag uses the term ‘socialist realism’ to denote not construction, as dialectic nihilism suggests, but neoconstruction.
+      </p>
+
+      <div class="visuals"></div>
+      <h3>Dialectic nihilism in the works of Gibson</h3>
+      <p>“Sexual identity is fundamentally unattainable,” says Lyotard. In a sense, Sontag uses the term ‘socialist realism’ to denote not construction, as dialectic nihilism suggests, but neoconstruction.
+      </p>
+
+      <div class="visuals"></div>
+      <h3>Dialectic nihilism in the works of Gibson</h3>
+      <p>“Sexual identity is fundamentally unattainable,” says Lyotard. In a sense, Sontag uses the term ‘socialist realism’ to denote not construction, as dialectic nihilism suggests, but neoconstruction.
+      </p>
+
+    </div> <!-- end main -->
 
   </div> <!-- end page wrapper -->
    
